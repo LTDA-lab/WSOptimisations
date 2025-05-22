@@ -19,3 +19,6 @@ cd C:\Users\Administrator\Desktop
 source: https://jgspiers.com/windows-server-2016-optimisation-script/
 
 Tested on Windows Server 2016, 2019, and 2022
+
+
+![2025-05-22 05_51_42-Greenshot](https://github.com/user-attachments/assets/4eb91880-9888-4b8f-a1d2-d20c344a425d)
