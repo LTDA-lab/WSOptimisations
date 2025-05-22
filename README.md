@@ -1,3 +1,5 @@
+##  **Windows Server Optimizacion Script**
+
 Before running the script, you must enable script execution on your Windows Server.
 
 1- Run PowerShell as administrator and execute the following command: Set-ExecutionPolicy RemoteSigned -Force
