@@ -1,4 +1,4 @@
-##  **Windows Server Optimizacion Script**
+##  **Windows Server Optimizacion (Script)**
 
 Before running the script, you must enable script execution on your Windows Server.
 
