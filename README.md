@@ -18,3 +18,4 @@ cd C:\Users\Administrator\Desktop
 
 source: https://jgspiers.com/windows-server-2016-optimisation-script/
 
+Tested on Windows Server 2016, 2019, and 2022
