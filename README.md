@@ -14,4 +14,7 @@ Set-ExecutionPolicy RemoteSigned -Force
 
 cd C:\Users\Administrator\Desktop
 
-./WS2016Optimisations.ps1
+./WSOptimisations.ps1
+
+source: https://jgspiers.com/windows-server-2016-optimisation-script/
+
