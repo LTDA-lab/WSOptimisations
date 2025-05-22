@@ -5,6 +5,7 @@ Before running the script, you must enable script execution on your Windows Serv
 2- Then right-click on the downloaded "WSOptimisations.ps1" and click Properties. Copy the path to the file location.
 
 3- In PowerShell (Administrator), type "cd <path to the copied "WSOptimisations.ps1"> and press Enter.
+
 4- Type "./WSOptimisations.ps1" and press Enter.
 
 Examples:
